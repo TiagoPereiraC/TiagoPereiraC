@@ -1,34 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A5ACD,100:8A2BE2&amp;height=120&amp;section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c2333,100:0d1117&height=100&section=header)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4500&pause=500&color=6A5ACD&width=435&lines=Hello%2C+it's+Tiago;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=4000&pause=500&color=79C0FF&width=435&lines=Hello%2C+it's+Tiago;Software+Developer)](https://git.io/typing-svg)
 
 ## About me
 
-I'm a passionate systems analysis and development student who enjoys creating solutions that make a difference.
+I'm a systems analysis and development student passionate about building clean, efficient solutions.
 
-I'm currently focused on creating clean and efficient solutions, and I enjoy transforming complex problems into simple code.
+I enjoy turning complex problems into simple, elegant code. Always learning, always creating.
 
-Always learning, always creating.
+### Tech Stack
 
-### Main skills
+[![Skills](https://skillicons.dev/icons?i=java,js,html,css,git,mysql,postgres,mongodb,flutter)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,git,github,mysql,postgres,mongodb,flutter)](https://skillicons.dev)
-
-### Currently learning
+### Learning
 
 [![Learning](https://skillicons.dev/icons?i=linux,nodejs,react,fastapi,python)](https://skillicons.dev)
 
-
 ## GitHub Stats
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPereiraC&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=f0f0f5&icon_color=6A5ACD&border_radius=10)](https://github.com/TiagoPereiraC)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoPereiraC&theme=github_dark)](https://github.com/TiagoPereiraC)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPereiraC&layout=compact&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=f0f0f5&border_radius=10)](https://github.com/TiagoPereiraC)
+[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoPereiraC&theme=github_dark)](https://github.com/TiagoPereiraC)
 
-## Contact with me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-pereira-21075b291)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camargotiago91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-pereira-21075b291)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:camargotiago91@gmail.com)
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A5ACD,100:8A2BE2&amp;height=120&amp;section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c2333,100:0d1117&height=100&section=footer)
